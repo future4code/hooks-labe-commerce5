@@ -5,12 +5,12 @@ import styled from "styled-components";
 const DivHeader = styled.div`
 display:flex;
 position: flex;
-height: 100px;
-background: blue;
+height: 120px;
+background:blue;
 `
 
 const LogoImg = styled.img `
-height: 120px;
+height: 140px;
 margin-top: 30px;
 margin-left: 10px;
 `

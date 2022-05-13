@@ -1,5 +1,6 @@
 import React from "react";
-import Header from "./components/header/Header"
+import Header from "./components/header/Header";
+import Carrossel from "./components/header/CarrosselPromo";
 import Produtos from "./components/produtos/Produtos";
 import Carrinho from "./components/carrinho/Carrinhos";
 import Filtro from "./components/filtro/Filtro";
@@ -24,7 +25,7 @@ const AppContainer = styled.div`
   grid-template-rows:1fr;
   width: 100%;
   gap: 8px;
-  background-color:#ffff;
+  background-color:#dbe9ea;
   
   
 `;
@@ -34,37 +35,37 @@ const AppContainer = styled.div`
 const produtos = [
   {
     cod: 1,
-    nome: "Foguete espacial",
+    nome: "Foguete espacial Me Leva Que Eu Vou",
     valor: 165,
     img: produto1,
   },
   {
     cod: 2,
-    nome: "kit de naves espaciais e satélite",
-    valor: 89,
+    nome: "Kit Completo de Naves Espaciais e Satélites",
+    valor: 289,
     img: produto2,
   },
   {
     cod: 3,
-    nome: "kit espacial astronautas",
+    nome: "Kit Mega Astronautas do Espaço",
     valor: 95,
     img: produto3,
   },
   {
     cod: 4,
-    nome: "Boneco Buzz Lightyear",
+    nome: "Boneco Patrulheiro Espacial Buzz Lightyear",
     valor: 189,
     img: produto4,
   },
   {
     cod: 5,
-    nome: "Nave snape-ships-sabre",
-    valor: 74,
+    nome: "Nave Espacial Full Time ",
+    valor: 79,
     img: produto5,
   },
   {
     cod: 6,
-    nome: "Nave espacial",
+    nome: "Nave Onibus espacial Turbo",
     valor: 59,
     img: produto6,
   },
