@@ -14,6 +14,8 @@ import Footer from "./components/footer/Footer"
 import cartoes from "./img/cartoes.png"
 
 
+
+
 const AppContainer = styled.div`
   margin: 0px;
   padding: 0px;
@@ -162,6 +164,8 @@ class App extends React.Component {
         
         <Footer/>
       </AppContainer>
+
+      
       
     );
   }
