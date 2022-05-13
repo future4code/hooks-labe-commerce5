@@ -2,9 +2,9 @@ import React from "react"
 import styled from "styled-components";
 
 const ContainerdoItem = styled.div`
-  display: flex;
+  display: inline-block;
   flex-direction: column;
-  align-items: center; 
+  align-items: flex-start;
   margin:10px 10px;
  
     p {

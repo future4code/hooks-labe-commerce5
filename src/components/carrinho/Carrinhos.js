@@ -15,15 +15,15 @@ const ContainerdoCarrinho = styled.div`
   width: 100%;
   height: 80%;
   border-radius:20px;
-  box-shadow: 2px 2px 100px grey;
+  box-shadow: 2px 2px 10px grey;
   background:#228b22;
   
 `
 
 const ContainerLista = styled.div`
-gap: 20%;
-margin-right:50%;
-margin-left: 50%;
+gap: 30%;
+margin-right:10%;
+margin-left: 10%;
 `
 const EstiloCarrinho = styled.h3`
 display: grid;
