@@ -60,6 +60,7 @@ class Footer extends React.Component{
             <a href="https://www.facebook.com/"> <ImagemRedes src="https://th.bing.com/th/id/R.c4b3b4ba5cc5d164bef2fb66c33ac210?rik=DvWyW7%2f1Wp4tLA&pid=ImgRaw&r=0"/></a>
             <a href="https://twitter.com/"> <ImagemRedes src="https://th.bing.com/th/id/R.18175cf35fd81ce71a4fcd35fc2650ae?rik=b4%2brm2mt9ubioQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f07%2fTwitter-PNG-File-180x180.png&ehk=Ehha2JpD8yHxILj3kp7Qp7xRV04YLMcE1nLyzrWildI%3d&risl=&pid=ImgRaw&r=0"/></a>
             <a href="https://www.instagram.com/"> <ImagemRedes src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/></a>
+            <a href="https://www.whatsapp.com/?lang=pt_br"> <ImagemRedes src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png"/></a>
             </div>
             </DisplayFlexElemento>
             <DisplayFlexElemento>

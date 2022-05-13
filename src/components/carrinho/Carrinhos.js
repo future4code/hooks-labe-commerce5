@@ -1,6 +1,11 @@
 import React from "react";
 import styled from "styled-components"
 import ItemCarrinho from "./ItemCarrinho";
+import { FaShoppingCart } from "react-icons/fa";
+
+
+
+
 
 const ContainerdoCarrinho = styled.div`
   
@@ -29,6 +34,8 @@ display:grid;
 margin-left:60%;
 `
 
+
+
 class Carrinho extends React.Component {
   calculaValorTotal = () => {
     let valorTotal = 0;
@@ -39,7 +46,7 @@ class Carrinho extends React.Component {
 }
   render(){
     return <ContainerdoCarrinho>
-           <EstiloCarrinho>Carrinho:</EstiloCarrinho>
+           <EstiloCarrinho> <FaShoppingCart /></EstiloCarrinho>
       <ContainerLista>
         {this.props.produtosNoCarrinho.map((produto) => {
           return <ItemCarrinho 
@@ -55,4 +62,6 @@ class Carrinho extends React.Component {
 }
 
 
-export default Carrinho;
+
+
+export default Carrinho
