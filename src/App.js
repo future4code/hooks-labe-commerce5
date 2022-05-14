@@ -65,6 +65,7 @@ const produtos = [
   },
   {
     cod: 6,
+
     nome: "Nave Onibus espacial Turbo",
     valor: 59,
     img: produto6,
