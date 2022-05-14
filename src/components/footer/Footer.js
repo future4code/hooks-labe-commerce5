@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components"
 
 const EstiloFooter = styled.div`
-background-color:#A0C3FA;
+background-color:#7dc387;
 `
 const ImagemCartoes = styled.img`
 width:400px;
@@ -22,7 +22,7 @@ align-items:center;
 flex-direction:row;
 text-align:center;
 justify-content:space-evenly;
-color: gray;
+color: blanchedalmond;
 `
 const DisplayFlexElemento = styled.div`
 display:flex;
