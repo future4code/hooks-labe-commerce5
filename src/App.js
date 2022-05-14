@@ -64,7 +64,7 @@ const produtos = [
   },
   {
     cod: 6,
-    nome: "Nave espacial",
+    nome: "Nave Espacial",
     valor: 59,
     img: produto6,
   },
