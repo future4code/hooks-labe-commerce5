@@ -46,7 +46,7 @@ class Footer extends React.Component{
             <EstiloTexto>"A TOYS EXPRESS chegou para inovar e revolucionar o mercado de brinquedos. Somos uma loja virtual voltada a brinquedos com tema espacial.
                 Aqui você encontra diversos itens, além dos melhores
                 lançamentos e  diversas promoções. 
-                É muito fácil e prático. Você só precisa entrar no nosso site e escolher o produto que deseja e pode deixar que nós, da TOYS EXPRESS, cuidamos dos demais serviços até a entrega do presente, embalado no endereço escolhido.
+                É muito fácil e prático. Você só precisa entrar no nosso site, e escolher o produto que deseja e pode deixar que nós, da TOYS EXPRESS, cuidamos dos demais serviços até a entrega do presente, embalado no endereço escolhido.
                 Assim, você pode desfrutar melhor seu tempo e se dedicar àquilo que você gosta ou com quem você ama! "
             </EstiloTexto>
 
